@@ -1,4 +1,4 @@
-- Experienced in HTML, CSS, and Javascript(ES6)
+- HTML, CSS, and Javascript(ES6)
 - Currently learning Vue.js
 
 <!---
